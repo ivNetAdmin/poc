@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<list>
+  <item>
+    <value>1</value>
+    <text>Tom</text>
+  </item>
+  <item>
+    <value>2</value>
+    <text>Dick</text>
+  </item>
+  <item>
+    <value>3</value>
+    <text>Sally</text>
+  </item>
+</list>
